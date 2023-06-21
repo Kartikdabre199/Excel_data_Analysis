@@ -6,11 +6,8 @@ The dashboards include pivot tables, various visuals like graphs and charts, and
 * ### Mall Customer analysis:
  Uses data from South America (2022) and includes pie charts of total sales, profit, and % of customers. Shows sales trend from 2021 - 2022 and customer satisfaction.
  
-* ### Coca Cola Dashboard: 
+* ### E-Commerce product sales analysis: 
  Shows total sales and units sold for key American retailers, with monthly sales and filtering by sales period.
- 
-* ### Coronavirus Analysis Dashboard:
- Analysis of cases, deaths, and recoveries for the top 10 countries with the most cases. Includes a sum of total deaths and filters for countries.
 
 # How to Use: 
 To use these dashboards, download the Excel files and open them in Excel.
