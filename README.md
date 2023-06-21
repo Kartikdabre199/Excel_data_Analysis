@@ -3,7 +3,7 @@ This repository contains a collection of Excel dashboards that I created while l
 The dashboards include pivot tables, various visuals like graphs and charts, and interactive elements.
 
 # Dashboard Examples
-* ### McDonald's Sales Dashboard:
+* ### Mall Customer analysis:
  Uses data from South America (2022) and includes pie charts of total sales, profit, and % of customers. Shows sales trend from 2021 - 2022 and customer satisfaction.
  
 * ### Coca Cola Dashboard: 
