@@ -1,11 +1,8 @@
 # Excel_data_Analysis
 This repository contains a collection of Excel dashboards that I created while learning about Excel.
 The dashboards include pivot tables, various visuals like graphs and charts, and interactive elements.
-
-# Dashboard Examples
-* ### Customer Expenditure and spending analysis in the mall using excel:
+### Customer Expenditure and spending analysis in the mall using excel:
  * Objective :-  On which range of customer we should spend more so that we will get more profit .
- * Data:- Total 200 customers Female 112 and male 88
  * Age wise Gender Calculation:- In 28-38 age group female and male count more. Next 18-27,38-47,48-57,58-67,68-77(Desc)
  * Outlier Calculation:- "In annual income only 1 data point present as outlier  so we can ignore this outlier.
                          From Correlation table got to know age ,income and spending score are independent to eachother."
@@ -13,8 +10,16 @@ The dashboards include pivot tables, various visuals like graphs and charts, and
                          other than 28-37 age grp,avg expenditure more for 18-27 and 68-77 grp 
                          but we can see count of male/female is very less in 68-77 grp .so from 68-77 grp from 
                          less ppl we are getting more profit ."
-* ### E-Commerce product sales analysis: 
- Shows total sales and units sold for key American retailers, with monthly sales and filtering by sales period.
+### Dashboard:-
+![2023-06-22 (2)](https://github.com/Kartikdabre199/Excel_data_Analysis/assets/111987494/9bfb1803-0081-44b9-b32b-940eb95ef140)
+
+### E-Commerce product sales analysis: 
+ * Objective :- Shows total sales and units sold for key American retailers, with monthly sales and filtering by sales period.
+ * Analysis of product sales :- Auto & Accessories, Electronics, Fashion, Home & Furniture
+ * Product wise monthly sales , Month and region wise sales, monthly sales and profit,
+### Dashboard:- 
+![2023-06-22 (5)](https://github.com/Kartikdabre199/Excel_data_Analysis/assets/111987494/3fc24f65-2c7f-42ca-a523-c5db07a04231)
+
 
 # How to Use: 
 To use these dashboards, download the Excel files and open them in Excel.
