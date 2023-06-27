@@ -13,14 +13,6 @@ The dashboards include pivot tables, various visuals like graphs and charts, and
 ### Dashboard:-
 ![2023-06-22 (2)](https://github.com/Kartikdabre199/Excel_data_Analysis/assets/111987494/9bfb1803-0081-44b9-b32b-940eb95ef140)
 
-### E-Commerce product sales analysis: 
- * Objective :- Shows total sales and units sold for key American retailers, with monthly sales and filtering by sales period.
- * Analysis of product sales :- Auto & Accessories, Electronics, Fashion, Home & Furniture
- * Product wise monthly sales , Month and region wise sales, monthly sales and profit,
-### Dashboard:- 
-![2023-06-22 (5)](https://github.com/Kartikdabre199/Excel_data_Analysis/assets/111987494/3fc24f65-2c7f-42ca-a523-c5db07a04231)
-
-
 # How to Use: 
 To use these dashboards, download the Excel files and open them in Excel.
 The dashboards are designed to be user-friendly, with clear labels and interactive elements that allow users to explore the data in different ways.
